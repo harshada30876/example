@@ -1,0 +1,30 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 40px;
+    background-color:beige(241, 246, 248);
+  }
+  
+  .nav-links {
+    display: flex;
+    list-style: none;
+    gap: 25px;
+  }
+  
+  .nav-links li {
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: 500;
+    color: #333;
+  }
+  
+  .nav-links .active {
+    color: #008080;
+    border-bottom: 2px solid #008080;
+  }
+  
+  .cart-icon {
+    font-size: 18px;
+  }
+  

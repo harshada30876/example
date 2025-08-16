@@ -1,0 +1,16 @@
+{
+    "products": [
+      { "id": 1, "name": "T-Shirt", "category": "Men", "subcategory": "T-Shirts", "price": "20", "size": ["S", "M", "L", "XL"], "image": "/image/men/f1.jpg","description": "Comfortable cotton T-shirt perfect for everyday wear." },
+      { "id": 2, "name": "Casual Shirt", "category": "Men", "subcategory": "Shirts", "price": "25", "size": ["S", "M", "L", "XL"], "image": "/image/men/f6.jpg","description": "Stylish casual shirt for a relaxed yet trendy look." },
+      { "id": 3, "name": "Jeans", "category": "Men", "subcategory": "Jeans", "price": "40", "size": ["S", "M", "L"], "image": "/image/men/f7.jpg","description": "Durable and stylish denim jeans with a modern fit." },
+      { "id": 4, "name": "Jacket", "category": "Men", "subcategory": "Jackets", "price": "60", "size": ["S", "M", "L", "XL"], "image": "/image/men/n1.jpg","description": "Warm and fashionable jacket for all seasons." },
+      { "id": 5, "name": "Sneakers", "category": "Men", "subcategory": "Shoes", "price": "70", "size": ["S", "M", "L", "XL"], "image": "/image/men/n2.jpg","description": "Trendy sneakers with a comfortable fit and great style." },
+      { "id": 6, "name": "Hoodie", "category": "Men", "subcategory": "Sweatshirts", "price": "50", "size": ["S", "M", "L", "XL"], "image": "/image/men/n4.jpg","description": "Soft and cozy hoodie perfect for casual wear." },
+      { "id": 7, "name": "Sweatshirt", "category": "Men", "subcategory": "Sweatshirts", "price": "45", "size": ["S", "M", "L", "XL"], "image": "/image/men/n5.jpg","description": "Lightweight sweatshirt with a stylish design." },
+      { "id": 8, "name": "Shorts", "category": "Men", "subcategory": "Shorts", "price": "30", "size": ["S", "M", "L", "XL"], "image": "image/womens/f8.jpg","description": "Breathable and comfortable shorts for summer." },
+      { "id": 9, "name": "Dress", "category": "Women", "subcategory": "One-piece", "price": "80", "size": ["S", "M", "L", "XL"], "image": "image/womens/shopping (1).webp","description": "Elegant one-piece dress for a classic look." },
+      { "id": 10, "name": "Top", "category": "Women", "subcategory": "Tops", "price": "35", "size": ["S", "M", "L", "XL"], "image": "image/womens/shopping (2).webp","description": "Stylish top to pair with jeans or skirts." },
+      { "id": 11, "name": "Skirt", "category": "Women", "subcategory": "Little Skirts", "price": "50", "size": ["S", "M", "L", "XL"], "image": "image/womens/shopping.webp", "description": "Chic and comfortable skirt for any occasion." }
+    ]
+  }
+  
